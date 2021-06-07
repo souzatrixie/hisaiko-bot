@@ -1,0 +1,24 @@
+{
+  "name": "bot-teste",
+  "version": "1.0.0",
+  "description": "criação de um bot para o discord, por enquanto apenas para aprender js e node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bot-hisaiko-discord"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "hisaiko"
+  ],
+  "author": "Trixie \\ <biamoreirasouza6@gmail.com\\> (https://github.com/souzatrixie)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3"
+  }
+}
